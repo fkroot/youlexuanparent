@@ -1,0 +1,1 @@
+var app=angular.module('youlexuan', ['pagination']);//定义有分页模块

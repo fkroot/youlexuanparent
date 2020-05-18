@@ -1,0 +1,1 @@
+var app=angular.module('youlexuan', []);//定义无分页模块
