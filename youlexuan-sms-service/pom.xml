@@ -12,7 +12,7 @@
     <artifactId>youlexuan-sms-service</artifactId>
     <properties>
         <webVersion>3.0</webVersion>
-        <spring.version>4.3.10.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
     </properties>
     <dependencies>
     <!-- Spring -->
